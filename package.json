@@ -1,0 +1,22 @@
+{
+  "name": "fin-portfolio",
+  "version": "1.0.0",
+  "description": "My final portfolio",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o Jay-main/css/ --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WileyLite/Fin-portfolio.git"
+  },
+  "author": "Jalin Wiley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WileyLite/Fin-portfolio/issues"
+  },
+  "homepage": "https://github.com/WileyLite/Fin-portfolio#readme",
+  "dependencies": {
+    "node-sass": "^4.12.0"
+  }
+}
